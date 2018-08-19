@@ -1,0 +1,412 @@
+
+/* Header Parallax Element Style*/ 
+.paral {
+background-attachment: fixed;
+background-size: cover;
+background-position: 50% 50%;
+padding-top: 05px;
+margin-top: -05px;
+}
+ 
+/* Paragrapgh for Parallax Section */ 
+.paral p {
+font-size: 17px;
+color:#fff;
+text-align: center;
+line-height: 15px;
+font-weight: 800;
+}
+
+.paralgold p {
+font-size: 27px;
+color:#fff001;
+text-align: center;
+line-height: 15px;
+font-weight: 800;
+padding-top: 130px;
+margin-right: 0px;
+}
+
+
+
+.paralmain {
+background-attachment: fixed;
+background-size: cover;
+background-position: 50% 50%;
+padding-top: 05px;
+margin-top: -05px;
+}
+ 
+/* Paragrapgh for Parallax Section */ 
+.paralmain p {
+font-size: 17px;
+color:#fff;
+text-align: center;
+line-height: 15px;
+font-weight: 800;
+}
+
+.paralgoldmain p {
+font-size: 27px;
+color:#fff001;
+text-align: center;
+line-height: 15px;
+font-weight: 800;
+padding-top: 30px;
+margin-right: 0px;
+text-shadow: 2px 2px 4px #000000;
+}
+
+
+
+
+
+
+.paralblack p {
+font-size: 17px;
+color: black;
+text-align: center;
+line-height: 15px;
+font-weight: 800;
+margin-right: 500px;
+text-shadow: 2px 2px 4px #000000;
+}
+
+/* Heading for Parallax Section */ 
+.paral h1 {
+color: rgba(255, 255, 255, 1.8);
+font-size: 75px;
+text-align: center;
+line-height: 10px;
+text-shadow: 2px 2px 4px #000000;
+}
+
+/* Heading for Parallax Section */ 
+.paral h2 {
+color: #f40000;
+font-size: 60px;
+text-align: center;
+line-height: 50px;
+margin-right: 600px;
+}
+
+
+/* Image for Parallax Section */ 
+
+.paralsec65 {
+  position: absolute;
+  background: #92ba35
+    url("http://djangotime.com/static/mainsite/img/code.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 325px;
+  z-index: -1;
+  opacity: 0.3;
+}
+
+.paralsec67 {
+  background-image: url( '/static/squaboo/img/shop.jpg' );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 750px;
+  z-index: -1;
+  opacity: 1.0;
+  padding-top: 150px;
+}
+
+.women {
+  background-image: url( '/static/squaboo/img/women-clothing.jpg' );
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 100%;
+  z-index: -1;
+  opacity: 1.0;
+  padding-top: 150px;
+}
+
+
+
+.paralsec66 {
+background-color: #f40000;
+min-height: 50px;
+}
+
+.paralsec {
+background-color: #819b43;
+}
+ 
+.paralsec1 {
+background-color: #4b4843;
+}
+ 
+.paralsec2 {
+background-color: #2b2b2b;
+}
+
+.paralsec3 {
+background-color: #2f3c44;
+}
+
+.paralsec4 {
+background-color: #343042;
+}
+
+.paralsec5 {
+background-color: #362c2a;
+}
+
+.paralsec6 {
+background-color: #322c2e;
+}
+
+.paralsec7 {
+background-color: #452873;
+}
+
+.paralsec8 {
+background-color: #151229;
+}
+
+.paralsec9 {
+background-color: #784e9d;
+}
+
+.paralsec10 {
+background-color: #0c104d;
+}
+
+.paralsec11 {
+background-color: #5662b9;
+}
+
+.paralsec12 {
+background-color: #dd6e45;
+}
+
+.paralsec13 {
+background-color: #23253a;
+}
+
+.paralsec14 {
+background-color: #2d2115;
+}
+
+.paralsec15 {
+background-color: #2d2d2d;
+}
+
+.paralsec16 {
+background-color: #1d1d1d;
+}
+
+.paralsec17 {
+background-color: #514d44;
+}
+
+.paralsec18 {
+background-color: #1b1b1b;
+}
+
+.paralsec19 {
+background-color: #1f1f21;
+}
+
+.paralsec20 {
+background-color: #36373b;
+}
+
+.paralsec21 {
+background-color: #19262c;
+}
+
+.paralsec22 {
+background-color: #0b0b0b;
+}
+
+.paralsec23 {
+background-color: #252525;
+}
+
+.paralsec24 {
+background-color: #2b2b2b;
+}
+
+.paralsec25 {
+background-color: #222222;
+}
+
+.paralsec26 {
+background-color: #251e18;
+}
+
+.paralsec27 {
+background-color: #8b9242;
+}
+
+.paralsec28 {
+background-color: #272c2f;
+}
+
+.paralsec29 {
+background-color: #1f7f8d;
+}
+
+.paralsec30 {
+background-color: #19262c;
+}
+
+.paralsec31 {
+background-color: #36373b;
+}
+
+.paralsec32 {
+background-color: #1f1f21;
+}
+
+.paralsec33 {
+background-color: #1b1b1b;
+}
+
+.paralsec34 {
+background-color: #514d44;
+}
+
+.paralsec35 {
+background-color: #1d1d1d;
+}
+
+.paralsec36 {
+background-color: #2d2d2d;
+}
+
+.paralsec37 {
+background-color: #2d2115;
+}
+
+.paralsec38 {
+background-color: #23253a;
+}
+
+.paralsec39 {
+background-color: #dd6e45;
+}
+
+.paralsec40 {
+background-color: #5662b9;
+}
+
+.paralsec41 {
+background-color: #0c104d;
+}
+
+.paralsec42 {
+background-color: #784e9d;
+}
+
+.paralsec43 {
+background-color: #151229;
+}
+
+.paralsec44 {
+background-color: #452873;
+}
+
+.paralsec45 {
+background-color: #322c2e;
+}
+
+.paralsec46 {
+background-color: #362c2a;
+}
+
+.paralsec47 {
+background-color: #343042;
+}
+
+.paralsec48 {
+background-color: #2f3c44;
+}
+
+.paralsec49 {
+background-color: #2b2b2b;
+}
+
+.paralsec50 {
+background-color: #4b4843;
+}
+
+.paralsec51 {
+background-color: #3a273d;
+}
+
+.paralsec52 {
+background-color: #79a033;
+}
+
+.paralsec53 {
+background-color: #252324;
+}
+
+.paralsec54 {
+background-color: #b95c0f;
+}
+
+.paralsec55 {
+background-color: #212121;
+}
+
+.paralsec56 {
+background-color: #1f7f8d;
+}
+
+.paralsec57 {
+background-color: #272c2f;
+}
+
+.paralsec58 {
+background-color: #8b9242;
+}
+
+.paralsec59 {
+background-color: #251e18;
+}
+
+.paralsec60 {
+background-color: #222222;
+}
+
+.paralsec61 {
+background-color: #252525;
+}
+
+.paralsec62 {
+background-color: #0b0b0b;
+}
+
+.paralsec63 {
+background-color: #3a273d;
+}
+ 
+/* Add more images for more sections */
+ 
+/* Remove Bottom Margin from Jumbotron */
+.jumbotron{margin-bottom: 0;}
+ 
+/* Footer */
+.wn-footer {
+padding: 2.5rem 0;
+text-align: center;
+color: white;
+background-color: #607D8B;
+border-top: .05rem solid #e5e5e5;
+}
+ 
+.wn-footer a {
+color: yellow;
+}

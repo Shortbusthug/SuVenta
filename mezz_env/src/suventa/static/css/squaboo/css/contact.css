@@ -1,0 +1,65 @@
+ 
+@import url('https://fonts.googleapis.com/css?family=Anton|Quicksand');
+ 
+
+.contact-form-title {
+    font-family: 'Anton', sans-serif;
+}
+
+.main-contact {
+    margin-top: 80px;
+}
+
+
+.main-info-contact {
+    background-color: #bdc3c7;
+    min-height: 4rem;
+}
+
+.info-contact {
+    text-align: center;
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.info-contact li {
+    display: inline-block;
+
+
+}
+
+.phone-info {
+    font-family: 'Quicksand', sans-serif;
+    float: right;
+    margin-top: -34px;
+    font-size:14px;
+    font-weight: bold;
+}
+
+.icon-phone-info {
+    font-size: 60px;
+    margin-top: 2px;
+}
+
+.form-control{
+    border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+.green-contact-form {
+  width: 700px;
+  margin:0 auto;
+  border-radius:10px;
+}
+
+.title-form {
+  max-width: 550px;
+}
+
